@@ -12,7 +12,7 @@ php composer.phar require --prefer-dist h0rseduck/yii2-etherscan
 or add
 
 ```
-"yiisoft/yii2-httpclient": "~0.1"
+"yiisoft/yii2-httpclient": "~0.2"
 ```
 
 to the require section of your composer.json.
