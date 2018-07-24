@@ -23,7 +23,7 @@
   },
   "autoload": {
     "psr-4": {
-      "h0rseduck\\etherscan\\": ""
+      "h0rseduck\\etherscan\\": "src"
     }
   }
 }
