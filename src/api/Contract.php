@@ -2,6 +2,8 @@
 
 namespace h0rseduck\etherscan\api;
 
+use yii\httpclient\Response;
+
 /**
  * Class Contract
  * @package h0rseduck\etherscan\api

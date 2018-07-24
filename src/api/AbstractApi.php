@@ -2,7 +2,6 @@
 
 namespace h0rseduck\etherscan\api;
 
-use h0rseduck\etherscan\ApiInterface;
 use h0rseduck\etherscan\Client;
 
 /**
