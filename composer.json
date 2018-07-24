@@ -1,0 +1,29 @@
+{
+  "name": "h0rseduck/yii2-etherscan",
+  "description": "Yii2 Etherscan Api HTTP Client",
+  "type": "yii2-extension",
+  "keywords": [
+    "yii2",
+    "etherscan",
+    "httpclient"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "h0rseduck",
+      "email": "y@govnokot.ru"
+    }
+  ],
+  "require": {
+    "php": ">=5.4",
+    "yiisoft/yii2": "~2.0.15",
+    "yiisoft/yii2-httpclient": "~2.0.6"
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-4": {
+      "h0rseduck\\etherscan\\": ""
+    }
+  }
+}
