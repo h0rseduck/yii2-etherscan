@@ -8,7 +8,6 @@ use h0rseduck\etherscan\Client;
 /**
  * Class AbstractApi
  * @package h0rseduck\etherscan\api
- * @author Maslakou Ihar <igormaslakoff@gmail.com>
  */
 abstract class AbstractApi implements ApiInterface
 {
