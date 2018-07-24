@@ -1,6 +1,6 @@
 <?php
 
-namespace h0rseduck\etherscan;
+namespace h0rseduck\etherscan\api;
 
 /**
  * Interface ApiInterface
